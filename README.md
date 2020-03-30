@@ -30,6 +30,8 @@ The combined application, client and server, can be run with `npm start` in the 
 
 ## Testing
 
+There are no tests in this top-level directory. Instead you test the client and server independently with separate commands.
+
 The client application can be independently tested as described in the [CRA documentation](https://facebook.github.io/create-react-app/docs/running-tests), i.e.:
 
 ```
