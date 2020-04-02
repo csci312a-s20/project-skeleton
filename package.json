@@ -1,8 +1,8 @@
 {
-  "name": "project",
+  "name": "Food Ordering",
   "version": "0.1.0",
   "private": true,
-  "description": "Describe your project",
+  "description": "Facilitates GrilleMe ordering for personal pick-up. Provides functionality for administators, workers, and customers.",
   "engines": {
     "node": "12.14.x"
   },
@@ -18,13 +18,11 @@
   ],
   "keywords": [],
   "contributors": [
-    "Student1 <student1@middlebury.edu>",
-    "Student2 <student2@middlebury.edu>",
-    "Student3 <student2@middlebury.edu>",
-    "Student4 <student3@middlebury.edu>",
-    "Student5 <student4@middlebury.edu>",
-    "Student6 <student5@middlebury.edu>",
-    "Student7 <student6@middlebury.edu>"
+    "Lizeth Lucero <llucero@middlebury.edu>",
+    "Hannah Abdelaal <hanbdelaal@middlebury.edu>",
+    "Siuyan Niu <sniu@middlebury.edu>",
+    "Tianrui Zheng <tzheng@middlebury.edu",
+    "Stephan Perreault <sperreault@middlebury.edu>"
   ],
   "license": "Apache-2.0",
   "devDependencies": {
